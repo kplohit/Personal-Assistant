@@ -1,0 +1,655 @@
+{
+    "conversations": [
+        {
+            "user": "identify this object"
+        },
+        {
+            "user": "identify the song"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "identify this object"
+        },
+        {
+            "user": "quit exit"
+        },
+        {
+            "user": "identify objects"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "identify object"
+        },
+        {
+            "user": "identify objects"
+        },
+        {
+            "user": "identify objects"
+        },
+        {
+            "user": "identify objects"
+        },
+        {
+            "user": "exact"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "830 exit"
+        },
+        {
+            "user": "time in india"
+        },
+        {
+            "assistant": "Error getting time for india: 'address'"
+        },
+        {
+            "user": "india"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "what is the time in bangalore"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "time in bangalore"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "tell me the weather report"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "what is time in"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "what is the time in bangalore"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "weather report"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "what is the time in bangalore"
+        },
+        {
+            "assistant": "The current time in bangalore is 02:39 PM."
+        },
+        {
+            "user": "what's the time in us"
+        },
+        {
+            "assistant": "The current time in us is 04:10 AM."
+        },
+        {
+            "user": "what is the time in germany"
+        },
+        {
+            "assistant": "The current time in germany is 11:10 AM."
+        },
+        {
+            "user": "what's the time in"
+        },
+        {
+            "assistant": "The current time in India is 02:40 PM."
+        },
+        {
+            "user": "bangladesh"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "bangladesh"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "time in sri lanka"
+        },
+        {
+            "assistant": "The current time in sri lanka is 02:40 PM."
+        },
+        {
+            "user": "time in nepal"
+        },
+        {
+            "assistant": "The current time in nepal is 02:55 PM."
+        },
+        {
+            "user": "time in australia"
+        },
+        {
+            "assistant": "The current time in australia is 06:41 PM."
+        },
+        {
+            "user": "delhi time"
+        },
+        {
+            "assistant": "The current time in India is 02:41 PM."
+        },
+        {
+            "user": "bangalore weather report"
+        },
+        {
+            "assistant": "Error getting weather for India: 'list'"
+        },
+        {
+            "user": "weather report bangalore"
+        },
+        {
+            "assistant": "Error getting weather for India: 'list'"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "weather report"
+        },
+        {
+            "assistant": "The weather in India today is light rain with a temperature of 28.01\u00b0C."
+        },
+        {
+            "user": "bangalore weather report"
+        },
+        {
+            "assistant": "The weather in India today is light rain with a temperature of 28.01\u00b0C."
+        },
+        {
+            "user": "davangere weather report"
+        },
+        {
+            "assistant": "The weather in India today is light rain with a temperature of 28.01\u00b0C."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "bangalore weather report"
+        },
+        {
+            "assistant": "Couldn't find the location bangalore weather."
+        },
+        {
+            "user": "weather report at davangere"
+        },
+        {
+            "assistant": "Couldn't find the location weather report at davangere."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "weather report for davangere"
+        },
+        {
+            "assistant": "The weather in davangere today is light rain with a temperature of 27.73\u00b0C."
+        },
+        {
+            "user": "weather report for bangalore"
+        },
+        {
+            "assistant": "The weather in bangalore today is overcast clouds with a temperature of 28.22\u00b0C."
+        },
+        {
+            "user": "delhi weather report"
+        },
+        {
+            "assistant": "The weather in delhi today is overcast clouds with a temperature of 34.59\u00b0C."
+        },
+        {
+            "user": "time in australia"
+        },
+        {
+            "assistant": "The current time in australia is 06:50 PM."
+        },
+        {
+            "user": "time in united states"
+        },
+        {
+            "assistant": "The current time in united states is 04:20 AM."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "led off"
+        },
+        {
+            "user": "product"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "time in australia"
+        },
+        {
+            "assistant": "The current time in australia is 07:34 PM."
+        },
+        {
+            "user": "734 p.m. in america"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "america time"
+        },
+        {
+            "assistant": "The current time in america is 05:05 AM."
+        },
+        {
+            "user": "turn on led"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "davangere weather report"
+        },
+        {
+            "assistant": "The weather in davangere today is light rain with a temperature of 27.67\u00b0C."
+        },
+        {
+            "user": "identify objects"
+        },
+        {
+            "user": "detect objects"
+        },
+        {
+            "user": "led off"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "video on"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "led off"
+        },
+        {
+            "user": "means light light on"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "light on"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "off led"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "led off"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "detect objects"
+        },
+        {
+            "user": "led on"
+        },
+        {
+            "user": "led off"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "what's the time in america"
+        },
+        {
+            "assistant": "The current time in america is 05:45 AM."
+        },
+        {
+            "user": "what's the time in bangalore"
+        },
+        {
+            "assistant": "The current time in bangalore is 04:15 PM."
+        },
+        {
+            "user": "report of davangere"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "report of"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "weather report davangere"
+        },
+        {
+            "assistant": "The weather in davangere today is overcast clouds with a temperature of 26.1\u00b0C."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "what's the time now"
+        },
+        {
+            "assistant": "The current time in now is 08:06 AM."
+        },
+        {
+            "user": "what is the current time in india"
+        },
+        {
+            "assistant": "The current time in current india is 11:36 AM."
+        },
+        {
+            "user": "where the current time is 8:06 a.m."
+        },
+        {
+            "assistant": "Sorry, I couldn't find the location: where current 8:06 a.m.."
+        },
+        {
+            "user": "in which country the current time is 8:06 a.m."
+        },
+        {
+            "assistant": "Sorry, I couldn't find the location: which country current 8:06 a.m.."
+        },
+        {
+            "user": "what is the current time"
+        },
+        {
+            "assistant": "The current time in current is 11:07 PM."
+        },
+        {
+            "user": "ok check a for dinner is connected"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "turn led on"
+        },
+        {
+            "user": "turn led off"
+        },
+        {
+            "user": "tell the weather report"
+        },
+        {
+            "assistant": "The weather in India today is light rain with a temperature of 28.71\u00b0C."
+        },
+        {
+            "user": "tell me the weather report of davangere"
+        },
+        {
+            "assistant": "The weather in davangere today is light rain with a temperature of 29.05\u00b0C."
+        },
+        {
+            "user": "ok quit for now"
+        },
+        {
+            "user": "i am going away lock my computer"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "lock my computer"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "i am going away"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "lock computer"
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "computer"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "lock computer"
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "i am back"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "lock computer"
+        },
+        {
+            "user": "computer"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "internet"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "computer"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "doctor photo"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "exit"
+        },
+        {
+            "user": "i am back"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "unlock computer"
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "open youtube and play"
+        },
+        {
+            "user": "songs in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "hot songs"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "bangari in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "bangle bangari song in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube with bangle bangle song"
+        },
+        {
+            "user": "search for bangle bangari song in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "bandari song in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "songs in youtube"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "song bangle bangari"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube song bangle bangari"
+        },
+        {
+            "user": "song in youtube"
+        },
+        {
+            "user": "bangaru kannada song"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "bangle bangari song"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "open youtube"
+        },
+        {
+            "user": "angle bangari song in youtube"
+        },
+        {
+            "user": "bangle bengali song"
+        },
+        {
+            "assistant": "I'm still learning. I noted that."
+        },
+        {
+            "user": "play song in youtube"
+        },
+        {
+            "user": "exit"
+        }
+    ]
+}

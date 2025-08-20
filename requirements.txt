@@ -1,0 +1,17 @@
+opencv-python
+pyttsx3
+SpeechRecognition
+pyserial
+TimezoneFinder
+geopy
+sentence-transformers
+transformers
+PyMuPDF
+face-recognition
+wheel
+cmake
+numpy
+dlib
+torchvision
+torch
+pyaudio
